@@ -21,6 +21,8 @@ Hello! I'm Kyle, a passionate technologist with over 40 years of hands-on experi
 
 - **40+ Years of Coding:** Started with BASIC and dBase III on a Commodore 64, and have explored a wide array of programming languages and platforms since.
 - **Versatile Skills:** Adept at both legacy and modern tech stacks, with experience in system-level scripting, desktop applications, and troubleshooting.
+- Extensive experience in VB and C# programming languages and designed and coded SQL server databases. Have worked on Mac and Linux systems as well as PC's
+- I also managed a travel agency call center and administered an Avaia phone system on a T3 backbone.
 
 ---
 
