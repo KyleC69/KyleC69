@@ -1,13 +1,9 @@
-Absolutely, Kyle — here’s a polished, GitHub‑ready version of your page with **visuals, badges, a clean tech‑stack section, and subtle flair** that matches your voice and history. It keeps everything you liked, adds the principles/pattern‑recognition section, and layers in tasteful GitHub aesthetics without going overboard.
-
-You can paste this directly into your `README.md`.
-
----
 
 # Welcome to My Tech Journey 🚀  
-`https://img.shields.io/badge/Engineer-40%2B%20Years-blue?style=for-the-badge`  
-`https://img.shields.io/badge/Systems%20Architect-Deterministic%20Pipelines-brightgreen?style=for-the-badge`  
-`https://img.shields.io/badge/Retro%20Computing-C64%2C%20TRS80%2C%20Atari-orange?style=for-the-badge`
+![Engineer 40+ Years](https://img.shields.io/badge/Engineer-40%2B%20Years-blue?style=for-the-badge)
+![Systems Architect](https://img.shields.io/badge/Systems%20Architect-Deterministic%20Pipelines-brightgreen?style=for-the-badge)
+![Retro Computing](https://img.shields.io/badge/Retro%20Computing-C64%2C%20TRS80%2C%20Atari%20Apple%20MAC%20Sparcs%20Linux%20Windows%20DOS-orange?style=for-the-badge)
+
 
 ---
 
@@ -55,7 +51,9 @@ That drive to uncover what’s *actually* happening — the root cause, the hidd
 
 ## 🧭 Founding Principles & Pattern Recognition
 
-I’ve always held tight to the fundamentals: structure, determinism, clarity, and the idea that systems — whether mechanical or digital — always tell the truth if you know how to listen.
+I’ve had the honor to work very closely with Microsoft and Google and learn the internals of these systems and adopt the founding principles that created these powerhouses. I am also witness to these same rock solid laws being forgotten or shrugged off. Software used to be something you could rely on and trust. In this era of continuous updates, we can never be sure of anything anymore, we don't even have manuals or a tooltip to show us how to use these rolled out "patches", we just wake up, and poof new features.. I have always demanded the same clarity in my own work and any system under my control. I never accept the answer, "Oh it's nothing, just ignore it". It all comes down to the most basic computer principal, 'The Binary Truth' all computers are driven by this engineering commandment. Something is On or Off, Is or Isn't. nothing in between, Computers would be nothing but a magic 8-ball without that one law.
+
+I have always held tight to the fundamentals: structure, determinism, clarity, and the idea that systems — whether mechanical or digital — always tell the truth if you know how to listen, and demand the truth. To equate it to a dog with a bone doesn't even come close to describing the power that pulls me into solving a problem. And the more bizarre the better, Windows has never let me down on that count.
 
 Over the years, I’ve developed a kind of sixth sense for patterns.  
 Sometimes I can spot the shape of a problem from a single log line, a strange timing, or even the “smell” of the behavior.
@@ -63,7 +61,8 @@ Sometimes I can spot the shape of a problem from a single log line, a strange ti
 It’s not magic — it’s decades of experience, thousands of solved puzzles, and a deep respect for first principles.  
 But it *feels* like magic sometimes.
 
-This instinct guides everything I build: clean seams, predictable behavior, explicit contracts, and architectures that don’t drift into chaos.
+This instinct guides everything I build: clean seams, predictable behavior, explicit contracts, and architectures that don’t drift into chaos. Sadly that philosophy and others created by Mr. Bill Gates are going the way of the dinosaur, dust in the wind. From dumpster diving at Sierra Online for the chance to find a full set of Leisure Suit Larry on 5 1/4" to the amazing power and opportunites created by AI. It has been one hell of a ride that I wouldn't change for anything. 
+Only one more thing could bring this journey full circle, to shake Mr. Gates hand.
 
 ---
 
@@ -86,34 +85,26 @@ This instinct guides everything I build: clean seams, predictable behavior, expl
 # 🧰 Tech Stack
 
 ### **Languages**
-`https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white`
-`https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white`
-`https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white`
-`https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white`
-`https://img.shields.io/badge/BASIC-004880?style=for-the-badge`
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![BASIC](https://img.shields.io/badge/BASIC-004880?style=for-the-badge)
 
 ### **Platforms & OS**
-`https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white`
-`https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black`
-`https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white`
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ### **Tools & Tech**
-`https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white`
-`https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white`
-`https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white`
-`https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white`
-`https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white`
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+
 
 ---
 
-## 🔥 What Drives Me
 
-- Curiosity — the same spark that made me rebuild joysticks as a kid.  
-- Craftsmanship — building things that last, whether code or machines.  
-- Clarity — clean architecture, deterministic systems, and elegant solutions.  
-- Pattern recognition — seeing structure where others see noise.  
-- The pursuit of truth — finding the real cause behind the chaos.  
-- Adventure — in tech, in travel, and in life.
-
----
 
