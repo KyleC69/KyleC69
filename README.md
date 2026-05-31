@@ -38,12 +38,12 @@ I grew up in the era of TRS‑80s, Commodore 64s, and Atari joysticks that broke
 
 ## 🔍 My Drive: Finding the Real Truth Behind the Problem
 
-One of the constants in my life — from jet engines to kernel quirks — is that I don’t walk away from a problem until I understand it. Not just “fix it,” but **understand it**.
+Chasing the source of the issue - The driving force behind my diverse technical background has been the insatiable need to know how things work or understand why it doesn't. It really didn't matter what it was, I juat had to know what made it tick. I couldn't walk away from the quest until I could answer the question. I don’t walk away from a problem until I understand it. Not just “fix it,” but **understand it**.
 
 Some people call it persistence. Others call it stubbornness.  
 For me, it’s the thrill of peeling back layers until the real truth of the issue reveals itself.
 
-It’s the same instinct that made me rebuild joysticks as a kid, reverse‑engineer software before I knew the term, and chase down obscure system failures that most people would chalk up to “just Windows being Windows.”
+As a kid if a joystick broke, i'd take it apart and fix it. When Mr. Gates was in his garage writing DOS, I was writing a pong game in basic on a Commodore 64. A good friend and I would visit Sierra Online and grab the damaged 5 1/4 diskettes and spend the night performing surgery on them trying to get a full set of diskettes of a game. Break out the hex editor and fix a block here and there. It all just seemed natural and the logical progression of events. When presented with a situation or unknown I was like a kitten on catnip I had to chase it down, bit by bit, to the truth. [Bit By Bit Forensics Blog](https://bitbybitforensics.blogspot.com)
 
 That drive to uncover what’s *actually* happening — the root cause, the hidden state, the emergent behavior — is my superpower.
 
