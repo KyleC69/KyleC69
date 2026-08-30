@@ -1,7 +1,7 @@
 
 # Welcome to My Tech Journey 🚀  
 ![Engineer 40+ Years](https://img.shields.io/badge/Engineer-40%2B%20Years-blue?style=for-the-badge)
-![Systems Architect](https://img.shields.io/badge/Systems%20Architect-Deterministic%20Pipelines-brightgreen?style=for-the-badge)
+![Systems Designer](https://img.shields.io/badge/Systems%20Architect-Deterministic%20Pipelines-brightgreen?style=for-the-badge)
 ![Retro Computing](https://img.shields.io/badge/Retro%20Computing-C64%2C%20TRS80%2C%20Atari%20Apple%20MAC%20Sparcs%20Linux%20Windows%20DOS-orange?style=for-the-badge)
 
 
@@ -9,7 +9,7 @@
 
 ## 👋 About Me
 
-I’m **Kyle** — a systems architect, lifelong engineer, and someone who’s been taking computers apart (and putting them back together better) since the days when 64K felt infinite. My career spans four decades of software, hardware, leadership, and hands‑on problem solving across nearly every layer of the stack.
+Hi!, I’m **Kyle** — a systems architect, lifelong engineer, and someone who’s been taking computers apart (and putting them back together better) since the days when 64K felt infinite. My career spans four decades of software, hardware, leadership, and hands‑on problem solving across nearly every layer of the stack.
 
 I grew up in the era of TRS‑80s, Commodore 64s, and Atari joysticks that broke faster than we could play *Decathlon*. I didn’t just use those machines — I modified them, repaired them, and pushed them past their limits. That mindset never left.
 
